@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The DaaS Center was founded by Jake Ross in 2023 with the help and support of the Bureau's Executive Commitee.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Core Purpose
+Our core purpose is to improve the flow of data from producer to consumer. We develop, implement, and maintain 
+software solutions that enable the Bureau of Geology to efficiently and effectively manage and disseminate data.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Core Values
+ - Inovation
+ - Automation
 
 
-[jekyll-organization]: https://github.com/jekyll
