@@ -16,3 +16,14 @@ software solutions that enable the Bureau of Geology to efficiently and effectiv
  - Automation
 
 
+## Team
+
+### Jake Ross
+Jake is the Director of the Data Integration Group. He is responsible for the overall direction of the group and 
+provides technical leadership. He is also responsible for the 
+development and maintenance of the Bureau's data management and
+dissemination systems.
+
+Jake has a Ph.D. in Geochronology from New Mexico Tech and has been with the Bureau since 2014. 
+
+![Jake Ross](/docs/assets/images/jakerossnewmexicowaterdata.jpg)
