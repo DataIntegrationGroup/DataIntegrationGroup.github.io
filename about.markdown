@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
+[DaaS](/) | [About](/about/) | [Data](/data/) | [Software](/software/) | [Contact](/contact/)
 
 The DaaS Center was founded by Jake Ross in 2023 with the help and support of the Bureau's Executive Commitee.
 

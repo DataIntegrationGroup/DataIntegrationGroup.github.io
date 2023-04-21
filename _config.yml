@@ -21,7 +21,7 @@
 title: New Mexico Bureau of Geology Data as as Service
 email: jake.ross@nmt.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  The NMBG's Data as a Service (DaaS) center is dedicated making the flow of data from producer to consumer as 
+  The NMBG's Data as a Service (DaaS) center is dedicated to making the flow of data from producer to consumer as 
   frictionless as possible
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -29,9 +29,13 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+#remote_theme: pages-themes/dinky@v0.2.0
+#theme: minima
+#remote_theme: pages-themes/modernist@v0.2.0
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
+#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

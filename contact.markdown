@@ -9,5 +9,4 @@ layout: default
 
 ## Welcome to the DaaS Center
 
-Our core purpose is to improve the flow of data from producer to consumer. We develop, implement, and maintain
-software solutions that enable the Bureau of Geology to efficiently and effectively manage and disseminate data.
+
