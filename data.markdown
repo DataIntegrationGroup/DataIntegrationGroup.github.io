@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Data
+permalink: /data/
 ---
 
 [DIG](/) | [About](/about/) | [Data](/data/) | [Software](/software/) | [Contact](/contact/)
