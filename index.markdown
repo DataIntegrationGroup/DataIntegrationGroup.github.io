@@ -5,9 +5,9 @@
 layout: default
 ---
 
-[DaaS](/) | [About](/about/) | [Data](/data/) | [Software](/software/) | [Contact](/contact/)
+[DIG](/) | [About](/about/) | [Data](/data/) | [Software](/software/) | [Contact](/contact/)
 
-## Welcome to the DaaS Center
+## Welcome to the Data Integration Group
 
 Our core purpose is to improve the flow of data from producer to consumer. We develop, implement, and maintain
 software solutions that enable the Bureau of Geology to efficiently and effectively manage and disseminate data.

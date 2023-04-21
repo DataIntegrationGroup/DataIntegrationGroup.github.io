@@ -5,8 +5,9 @@
 layout: default
 ---
 
-[DaaS](/) | [About](/about/) | [Data](/data/) | [Software](/software/) | [Contact](/contact/)
+[DIG](/) | [About](/about/) | [Data](/data/) | [Software](/software/) | [Contact](/contact/)
 
-## Welcome to the DaaS Center
+## Software Developed by DIG
+- [Pychron](https://github.com/NMGRL/pychron) - A Python-based application for automated data collection and reduction of noble gas geochronology data. 
 
 

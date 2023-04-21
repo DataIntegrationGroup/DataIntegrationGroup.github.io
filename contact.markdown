@@ -5,7 +5,7 @@
 layout: default
 ---
 
-[DaaS](/) | [About](/about/) | [Data](/data/) | [Software](/software/) | [Contact](/contact/)
+[DIG](/) | [About](/about/) | [Data](/data/) | [Software](/software/) | [Contact](/contact/)
 
 ## Welcome to the DaaS Center
 

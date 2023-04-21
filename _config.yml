@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: New Mexico Bureau of Geology Data as as Service
+title: New Mexico Bureau of Geology's Data Integration Group
 email: jake.ross@nmt.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  The NMBG's Data as a Service (DaaS) center is dedicated to making the flow of data from producer to consumer as 
+  The NMBG's Data Integration Group (DIG) is dedicated to making the flow of data from producer to consumer as 
   frictionless as possible
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  jirhiker
 
 # Build settings
 #remote_theme: pages-themes/dinky@v0.2.0

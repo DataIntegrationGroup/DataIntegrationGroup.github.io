@@ -5,8 +5,9 @@
 layout: default
 ---
 
-[DaaS](/) | [About](/about/) | [Data](/data/) | [Software](/software/) | [Contact](/contact/)
+[DIG](/) | [About](/about/) | [Data](/data/) | [Software](/software/) | [Contact](/contact/)
 
-## Welcome to the DaaS Center
+## Where to Find data
+- New Mexico Water Data ([homepage](https://newmexicowaterdata.org), [catalog](https://catalog.newmexicowaterdata.org))
 
 

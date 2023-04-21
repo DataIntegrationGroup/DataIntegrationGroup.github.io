@@ -3,9 +3,9 @@ layout: default
 title: About
 permalink: /about/
 ---
-[DaaS](/) | [About](/about/) | [Data](/data/) | [Software](/software/) | [Contact](/contact/)
+[DIG](/) | [About](/about/) | [Data](/data/) | [Software](/software/) | [Contact](/contact/)
 
-The DaaS Center was founded by Jake Ross in 2023 with the help and support of the Bureau's Executive Commitee.
+The Data Integration Group was founded by Jake Ross in 2023 with the help and support of the Bureau's Executive Committee.
 
 ## Core Purpose
 Our core purpose is to improve the flow of data from producer to consumer. We develop, implement, and maintain 
