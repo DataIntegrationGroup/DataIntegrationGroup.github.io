@@ -11,3 +11,19 @@ layout: default
 
 Our core purpose is to improve the flow of data from producer to consumer. We develop, implement, and maintain
 software solutions that enable the Bureau of Geology to efficiently and effectively manage and disseminate data.
+
+
+## Vision
+
+
+
+
+
+
+
+
+## News
+
+{% for post in site.posts %}
+{{ post.date | date: "%B %-d, %Y" }}: [{{ post.title }}]({{ post.url }})
+{% endfor %}
