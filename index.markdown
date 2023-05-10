@@ -15,9 +15,7 @@ software solutions that enable the Bureau of Geology to efficiently and effectiv
 
 ## Vision
 
-
-
-
+![nmgrl_datasharing_vision.png](docs/assets/images/nmgrl_datasharing_vision.png)
 
 
 
